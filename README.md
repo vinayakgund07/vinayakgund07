@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Gund</h1>
 
-<h3 align="center">Aspiring AWS Cloud & DevOps Engineer | B.Sc. Computer Science Graduate | Passionate About Cloud, Automation & CI/CD</h3>
+<h3 align="center">Aspiring AWS Cloud & DevOps Engineer | Computer Science Graduate | Passionate About Cloud, Automation & CI/CD</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vinayakgund07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
