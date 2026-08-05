@@ -115,48 +115,6 @@ https://github.com/vinayakgund07/aws-ecs-jenkins-cicd-project
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayakgund07&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakgund07&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vinayakgund07&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinayakgund07&theme=algolia&row=1&column=6"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakgund07&theme=tokyo-night"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -172,16 +130,6 @@ https://github.com/vinayakgund07/aws-ecs-jenkins-cicd-project
 <a href="https://github.com/vinayakgund07">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=vinayakgund07&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
