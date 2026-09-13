@@ -222,7 +222,6 @@ https://github.com/vinayakgund07/CricStars
 - Windows
 
 ---
-
 # 🌐 Connect With Me
 
 <p align="left">
